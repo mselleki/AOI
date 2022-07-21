@@ -1,9 +1,3 @@
 # AOI
-# AOI
-# AOI
-# AOI
-# AOI
-# AOI
-# AOI
-# AOI
-# AOI
+
+Only some AOI's for some random study
